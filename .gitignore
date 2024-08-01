@@ -1,0 +1,21 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# Docker
+*.log
+
+# Config files
+config/*.json
+config/*.yml
+config/*.yaml
+
+# Model files
+models/bert_model/*
+
+# Environment files
+.env
